@@ -90,7 +90,7 @@
         }
         
         .back-to-top:hover {
-            background-color: grey;
+            background-color: #ff53bd;
         }
         
         /* nav bar linkssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss */
@@ -224,8 +224,8 @@ section .section-content-justin h1{
 }
 
  #justin{
-    height: 650px;
-    width: 950px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -260,8 +260,8 @@ section .section-content-newyear h1{
 }
 
  #newyear{
-    height: 600px;
-    width: 900px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -296,8 +296,8 @@ section .section-content-feastday h1{
 }
 
  #feastday{
-    height: 600px;
-    width: 800px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -332,8 +332,8 @@ section .section-content-presscon h1{
 }
 
  #presscon{
-    height: 400px;
-    width: 800px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -377,8 +377,8 @@ section .section-content-literature h1{
 }
 
  #literature{
-    height: 500px;
-    width: 800px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -423,8 +423,8 @@ section .section-content-rip h1{
 }
 
  #rip{
-    height: 500px;
-    width: 800px;
+    height: auto;
+    max-width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
